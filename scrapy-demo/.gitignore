@@ -1,1 +1,5 @@
 *.env
+
+# Basics
+*.py[cod]
+__pycache__
