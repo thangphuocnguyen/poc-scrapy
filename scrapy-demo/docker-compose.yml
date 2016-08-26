@@ -16,7 +16,7 @@ services:
       - .:/app
     ports:
       - "80:8000"
-    command: bash -c "ls -la && python3 -m http.server 8000"
+    # command: bash -c "ls -la && python3 -m http.server 8000"
 
 
 
