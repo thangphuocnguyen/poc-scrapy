@@ -1,0 +1,24 @@
+# #############################################
+# This is docker-compose for local development
+# #############################################
+
+version: '2'
+
+services:
+
+  scrapyapp:
+    build:
+      context: .
+      dockerfile: ./compose/scrapyapp/Dockerfile
+    env_file: .env
+    # This mount volume only work on local development
+    volumes:
+      - .:/app
+    ports:
+      - "80:8000"
+    command: bash -c "ls -la && python3 -m http.server 8000"
+
+
+
+
+
