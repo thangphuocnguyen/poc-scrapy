@@ -53,7 +53,7 @@
 
   # Remote to container
 
-  $ docker exec -it <container name>
+  $ docker exec -it <container name> bash
 
   ```
 
@@ -71,6 +71,20 @@
 
   ```
 
+## Scrapy DEMO project:
 
+  ```
+  # Start GhostBlogSpider crawl project
+
+  $ scrapy crawl ghost_blog_post
+
+
+  # Export Item that crawled to JSON file
+
+  $ scrapy crawl ghost_blog_post -o item-storage/ghost_blog_post.json
+
+  ```
+
+## Notes:
 
 
