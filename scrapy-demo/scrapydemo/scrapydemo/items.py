@@ -7,6 +7,9 @@
 
 import scrapy
 
+class GhostLinkItem(scrapy.Item):
+    link = scrapy.Field()
+
 
 class GhostPostItem(scrapy.Item):
     title = scrapy.Field()
