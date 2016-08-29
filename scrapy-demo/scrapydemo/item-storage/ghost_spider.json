@@ -1,0 +1,8 @@
+[
+{"link": ["http://localhost:2368/", "https://ghost.org/"]},
+{"link": ["http://localhost:2368/", "http://localhost:2368/rss/", "https://ghost.org/"]},
+{"link": ["http://localhost:2368/", "http://localhost:2368/rss/", "https://ghost.org/"]},
+{"link": ["http://localhost:2368/", "http://localhost:2368/rss/", "http://iqbalnaved.wordpress.com/2013/08/30/installing-python-2-7-5-on-ubuntu-12-04-using-pyenv/", "https://www.digitalocean.com/community/tutorials/how-to-install-django", "https://twitter.com/intent/tweet?text=Django&url=http%3A%2F%2Flocalhost%3A2368%2Fdemo-a-post%2F", "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A2368%2Fdemo-a-post%2F", "https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A2368%2Fdemo-a-post%2F", "https://ghost.org/"]},
+{"link": ["http://localhost:2368/", "http://localhost:2368/rss/", "https://twitter.com/intent/tweet?text=yandex00&url=http%3A%2F%2Flocalhost%3A2368%2Fyandex00%2F", "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A2368%2Fyandex00%2F", "https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A2368%2Fyandex00%2F", "https://ghost.org/"]},
+{"link": ["http://localhost:2368/", "http://localhost:2368/rss/", "http://ghost.org/", "https://twitter.com/intent/tweet?text=Welcome+to+Ghost&url=http%3A%2F%2Flocalhost%3A2368%2Fwelcome-to-ghost%2F", "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A2368%2Fwelcome-to-ghost%2F", "https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A2368%2Fwelcome-to-ghost%2F", "https://ghost.org/"]}
+]
