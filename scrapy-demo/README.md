@@ -83,6 +83,11 @@
 
   $ scrapy crawl ghost_blog_post -o item-storage/ghost_blog_post.json
 
+
+  # Export Related links that crawled from LxmlLinkExtractor to JSON file
+
+  $ scrapy crawl ghost_spider -o item-storage/ghost_spider.json
+
   ```
 
 ## Notes:
