@@ -84,9 +84,20 @@
   $ scrapy crawl ghost_blog_post -o item-storage/ghost_blog_post.json
 
 
-  # Export Related links that crawled from LxmlLinkExtractor to JSON file
+  # Export Related links that crawled from LinkExtractor to JSON file
 
   $ scrapy crawl ghost_spider -o item-storage/ghost_spider.json
+
+  # Export Related links that crawled from LinkExtractor to CSV file
+
+  $ scrapy crawl ghost_spider -o item-storage/ghost_spider.csv
+
+
+  # Notes:
+  # To specs sections_id for ghost_spider crawl,
+  # just add -a session_id=<id> into command
+  # Ex:
+  # scrapy crawl ghost_spider -a session_id=1 -o item-storage/ghost_spider.json
 
   ```
 
