@@ -9,6 +9,6 @@
 
 ## Training Repository
 
-+ scrapy-demo
++ [scrapy-demo](https://gitlab.asoft-python.com/g-thangnguyen/scrapy-training/tree/master/scrapy-demo)
 
 > A scrapy demo with the support of docker development, Tor & Privoxy
