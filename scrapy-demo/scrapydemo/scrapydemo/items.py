@@ -1,3 +1,4 @@
+"""Scrapy item's specs."""
 # -*- coding: utf-8 -*-
 
 # Define here the models for your scraped items
@@ -7,7 +8,9 @@
 
 import scrapy
 
+
 class GhostLinkItem(scrapy.Item):
+    """Link item."""
 
     # session_id: a unique session id for each scrapy run or harvest
     session_id = scrapy.Field()
@@ -25,6 +28,9 @@ class GhostLinkItem(scrapy.Item):
 
 
 class GhostPostItem(scrapy.Item):
+    """Post Item."""
+
     title = scrapy.Field()
     link = scrapy.Field()
     desc = scrapy.Field()
+    author = scrapy.Field()

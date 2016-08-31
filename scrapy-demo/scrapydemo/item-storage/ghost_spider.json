@@ -1,9 +1,9 @@
 [
-{"session_id": "1", "title": ["yandex00"], "depth": 1, "current_url": "http://192.168.99.101/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["yandex00 - Page 1 - yandex00"], "depth": 1, "current_url": "http://192.168.99.101/author/yandex00/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["Getting Started - yandex00"], "depth": 1, "current_url": "http://192.168.99.101/tag/getting-started/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["Crawl Your Ecommerce Site with Python, Scrapy"], "depth": 1, "current_url": "http://192.168.99.101/crawl-your-ecommerce-site-with-python-scrapy/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["Django"], "depth": 1, "current_url": "http://192.168.99.101/demo-a-post/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["yandex00"], "depth": 1, "current_url": "http://192.168.99.101/yandex00/", "referring_url": "http://192.168.99.101/"},
-{"session_id": "1", "title": ["Welcome to Ghost"], "depth": 1, "current_url": "http://192.168.99.101/welcome-to-ghost/", "referring_url": "http://192.168.99.101/"}
+{"current_url": "http://192.168.99.101/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["yandex00"]},
+{"current_url": "http://192.168.99.101/author/yandex00/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["yandex00 - Page 1 - yandex00"]},
+{"current_url": "http://192.168.99.101/tag/getting-started/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["Getting Started - yandex00"]},
+{"current_url": "http://192.168.99.101/crawl-your-ecommerce-site-with-python-scrapy/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["Crawl Your Ecommerce Site with Python, Scrapy"]},
+{"current_url": "http://192.168.99.101/demo-a-post/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["Django"]},
+{"current_url": "http://192.168.99.101/yandex00/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["yandex00"]},
+{"current_url": "http://192.168.99.101/welcome-to-ghost/", "session_id": "1", "depth": 1, "referring_url": "http://192.168.99.101/", "title": ["Welcome to Ghost"]}
 ]
