@@ -1,6 +1,7 @@
 """Spider for Ghost Blog."""
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+from scrapy.loader import ItemLoader
 from scrapydemo.items import GhostLinkItem, GhostPostItem
 
 
@@ -42,34 +43,63 @@ class GhostSpider(CrawlSpider):
         """Parse item."""
         #
 
-        item = GhostLinkItem()
-        self.log('KIND -----> Ghost link!\n===========================')
+        l = ItemLoader(item=GhostLinkItem(), response=response)
 
-        item['session_id'] = self.session_id
-        self.log('session_id: %s' % item['session_id'])
+        l.add_xpath('title', '//title/text()')
 
-        item['current_url'] = response.url
-        self.log('current_url: %s' % item['current_url'])
-
-        item['title'] = response.xpath('//title/text()').extract()
-        self.log('title: %s' % item['title'])
-
-        item['depth'] = response.meta['depth']
-        self.log('depth: %s' % item['depth'])
+        l.add_value('session_id', self.session_id)
+        l.add_value('current_url', response.url)
+        l.add_value('depth', response.meta['depth'])
 
         # response.request.headers.get('Referer', None) come from
         # the RefererMiddleware which is defaulted by SPIDER_MIDDLEWARES_BASE
-        item['referring_url'] = response.request.headers.get('Referer', None) \
-                                        .decode('utf-8')
-        self.log('referring_url: %s' % item['referring_url'])
+        l.add_value('referring_url',
+                    response.request.headers.get('Referer', None)
+                            .decode('utf-8')
+                    )
 
-        yield item
+        return l.load_item()
+
+        # item = GhostLinkItem()
+        # self.log('KIND -----> Ghost link!\n===========================')
+
+        # item['session_id'] = self.session_id
+        # self.log('session_id: %s' % item['session_id'])
+
+        # item['current_url'] = response.url
+        # self.log('current_url: %s' % item['current_url'])
+
+        # item['title'] = response.xpath('//title/text()').extract()
+        # self.log('title: %s' % item['title'])
+
+        # item['depth'] = response.meta['depth']
+        # self.log('depth: %s' % item['depth'])
+
+        # # response.request.headers.get('Referer', None) come from
+        # # the RefererMiddleware which is defaulted by SPIDER_MIDDLEWARES_BASE
+        # item['referring_url'] = response.request.headers.get('Referer', None) \
+        #                                 .decode('utf-8')
+        # self.log('referring_url: %s' % item['referring_url'])
+
+        # yield item
 
     def parse_author_posts(self, response):
         """Parse post from author's page."""
         #
 
         for sel in response.xpath("//article[@class='post']"):
+
+            # import pdb
+            # pdb.set_trace()
+
+            # il = ItemLoader(item=GhostPostItem(), response=sel)
+
+            # il.add_xpath('title', 'header/h2/a/text()')
+            # il.add_xpath('link', 'header/h2/a/@href')
+            # il.add_xpath('desc', 'section/p/text()')
+            # il.add_xpath('author', 'footer/a/text()')
+
+            # yield il.load_item()
 
             post_item = GhostPostItem()
             self.log('KIND -----> Ghost post!\n===========================')
