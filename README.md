@@ -11,4 +11,9 @@
 
 + [scrapy-demo](https://gitlab.asoft-python.com/g-thangnguyen/scrapy-training/tree/master/scrapy-demo)
 
-> A scrapy demo with the support of docker development, Tor & Privoxy
+> A scrapy demo with: 
+> 
+> + [Scrapy](http://scrapy.org/)
+> + [Docker](https://www.docker.com/) 
+> + [Tor](https://www.torproject.org/)
+> + [Privoxy](https://www.privoxy.org/)

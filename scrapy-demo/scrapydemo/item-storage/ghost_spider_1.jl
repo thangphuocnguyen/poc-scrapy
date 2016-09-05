@@ -1,0 +1,9 @@
+{"current_url": "http://192.168.99.100/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["yandex00"], "depth": 1}
+{"link": "/crawl-your-ecommerce-site-with-python-scrapy/", "author": "yandex00", "desc": "\ue618 \ue605 \ue607 \ue614 \ue60d \ue616 Keyword or phrase...  SEARCH  WEBINARS  MERCHANTVOICE  Practical Ecommerce  \ue612 MARKETING  CONVERSION  CARTS & PLATFORMS  SOCIAL MEDIA  SEARCH ENGINES  MANAGEMENT  DESIGN & DEVELOPMENT  \ue600 Articles \u00bb Design & Development \u00bb  Crawl ", "title": "Crawl Your Ecommerce Site with Python, Scrapy"}
+{"link": "/demo-a-post/", "author": "yandex00", "desc": "Chapter 1: Introduction to Django Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design Diango follow the MVC architectural pattern ", "title": "Django"}
+{"link": "/yandex00/", "author": "yandex00", "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel pulvinar magna. Donec sagittis tristique sem, non faucibus lectus dapibus varius. Praesent ornare nibh a arcu ", "title": "yandex00"}
+{"current_url": "http://192.168.99.100/tag/getting-started/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["Getting Started - yandex00"], "depth": 1}
+{"current_url": "http://192.168.99.100/crawl-your-ecommerce-site-with-python-scrapy/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["Crawl Your Ecommerce Site with Python, Scrapy"], "depth": 1}
+{"current_url": "http://192.168.99.100/demo-a-post/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["Django"], "depth": 1}
+{"current_url": "http://192.168.99.100/yandex00/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["yandex00"], "depth": 1}
+{"current_url": "http://192.168.99.100/welcome-to-ghost/", "session_id": "1", "referring_url": "http://192.168.99.100/", "title": ["Welcome to Ghost"], "depth": 1}
