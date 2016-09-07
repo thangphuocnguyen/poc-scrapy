@@ -26,7 +26,7 @@ class GhostLinkItem(scrapy.Item):
 
     title = scrapy.Field()
 
-    publish_date = scrapy.Field()
+    # publish_date = scrapy.Field()
 
 
 class GhostPostItem(scrapy.Item):

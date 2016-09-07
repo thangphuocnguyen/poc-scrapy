@@ -1,0 +1,350 @@
+[
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Helium Scraper is a visual data extracting tool standing in line with other web scraping software. This data extractor uses a search algorithm for scraping which associates the elements to be extracted by their HTML properties. This differs from the general extraction methods for web scrapers. This feature works well in cases in which the association between elements is small. For example, if you want to scrape the search engine results it’s not easy to get the needed info from them using only XPath or Regexes. This scraper facilitates extraction and manipulation of more complex information with the aid of JavaScript and SQL scripts. It’s exceptionally good for visual inner join multi-level data structures.</p>\n\n<p>Overview <br>\nHelium scraper will impress you with its simplicity and robust operation. One of the outstanding features of this scraper is the easy-to-set-up multi-level extraction, the data of which might then be turned into related tables (watch a video). This involves running SQL queries against extracted data. It looks awesome! The only weak link of Helium Scraper is checking/verifying if a “kind” is properly defined; after creating a “kind” one often needs to check the relationships it has to the targeted extraction data.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Helium Scraper Review"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/helium-scraper-review/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Content Grabber is a powerful, multi-featured web scraping solution with web automation capabilities. It was developed by the folks that brought you Visual Web Ripper and it includes all the VWR features and more. In fact Content Grabber truly has raised the bar.</p>\n\n<p>The software is targeted at companies with a critical reliance on web scraping and second it is for those who want to build, package and sell their own web scraping offerings (independent agents). It is an Enterprise grade solution which has been built from the ground up with a focus on performance, scalability and usability.</p>\n\n<p>Overview <br>\nHere I would highlight its 4 characteristics.</p>\n\n<ol>\n<li><p>Visual Scraper <br>\nContent Grabber truly stands for one new visual web scraper on the market. It has a simple point-and-click UI where users browse the website and click on the data elements in the order of collecting them.</p></li>\n<li><p>Stand alone agents <br>\nThe thing that strikes me the most is the ability to compose scraping agents and compile them into stand alone Win applications, that are to be run without exterior help. The self contained agents include the actual Content Grabber engine so they can run independent of the licensed version of the Content Grabber software. This enables developers to build self-contained web scraping agents which they can run independently from the licensed software royalty free. If they buy the Premium license they can also white label these as their own.</p></li>\n</ol>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Content Grabber Review"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/content-grabber-review/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>OutWit Hub is a software providing simple data extraction without requiring any programming skills or advanced technical knowledge. What impressed me about Outwit Hub is its general approach to data gathering: harvest everything (links, text, images, etc.) and, then, let the user choose what is needed (sift by scrapers). The program is apt to browse over links on pages, so this feature works well if multiple chains web scraping is required.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "OutWit Hub Review"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/outwit-hub-review/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Dexi.io is a powerful scraping suite. This cloud scraping service provides development, hosting and scheduling tools. The suite might be compared with Mozenda for making web scraping projects and runnig them in clouds for user convenience. Yet it includes the API, each scraper being a json definition similar to other services like import.io, kimono lab and parseHub.</p>\n\n<p>Overview <br>\nIn the nutshell the Dexi is a web enviroment for building and hosting web scraping robots. The scraped output is available both as JSON/CSV data and can also be queried through ReST from external applications. The web suite provides most of the modern web scraping functionality: CAPTCHA solving, proxy socket, filling out forms including dependent fields (drop downs), regex support and others. Robots also support the javascript evaluation for the scraped code.</p>\n\n<p>The tool offers a point and click UI; no coding unless you need to handle javascript tricks :-).  So for harder tasks you’ll sure need a programmer’s help. Eventually, the robot is boiled down to the JSON command definition containing meta and service info.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Dexi.io Review"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/dexi-io-review/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Big Databig-data-iceberg-square <br>\nBig Data (in our age) is mostly digital unstructured data that today’s society tries to structure, unify, and gain insights. The amount of unstructured data grows exponentially, and the means to process them needs to be of higher complexity compared to data analytics tools focused on small data sets. Big Data implies data sets that are too large to store in a single computer’s memory and must be both stored and processed distributively. For the latter, new algorithmic distribution models are to be applied.</p>\n\n<p>big-data-non-accessibleAnother problem working with Big data is that most of it is not openly accessible. A big chunk of today’s data are kept secured. See the open info index (related to government data only). Regardless of this, the remaining public data is still huge and falls under Big Data concept.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Big Data, Data Analytics, Data Analysis, Data Mining, Data Science & Machine Learning"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/big-data-data-analytics-data-analysis-data-mining-data-science-machine-learning/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>WHAT JSNICE DOES FOR YOU ? <br>\nWelcome to JSNice — we make even obfuscated JavaScript code readable. <br>\nWe will rename variables and parameters to names that we learn from thousands of open source projects. <br>\nFurthermore, often we are also able to guess or infer type annotations. <br>\nTry JSNice on your JavaScript code to see how it works! <br>\nOverride the names suggested by JSNice (by enabling \"interactive renames\" in settings). <br>\nClick to learn more about JSNice. <br>\nBy using this service you warrant that all your entries are in your sole responsibility and do not infringe any laws or third-party rights like copyrights and the like. ETH and its employees cannot be held liable in any way. All entries are logged for research and improvement of service. </p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "WHAT JSNICE DOES FOR YOU ?"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/what-jsnice-does-for-you/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>123 456 789</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "123"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/123/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Introduction <br>\nIn this post we will get up and running with simple web scraping using Python, specifically the Scrapy Framework.</p>\n\n<p>What is Python? <br>\nPython is a clear and powerful a high-level general-purpose object-oriented programming language. This tutorial doesn’t assume that you are an expert in Python, but if you’ve not used python before consider learning the basics of python over at Codecademy.</p>\n\n<p>What is Scrapy? <br>\nScrapy defines itself as A Fast and Powerful Scraping and Web Crawling Framework. It’s an Open-Source framework written in Python and benifits from a vibrant and active community of contributors, maintainers and users.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Web Scraping with Python + Scrapy (blog series)"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/web-scraping-with-python-scrapy-blog-series/"
+    ],
+    "post_date": [
+      "2016-09-07"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>\n\n\n\n\n</p>\n\n<p>Keyword or phrase... <br>\nSEARCH <br>\nWEBINARS <br>\nMERCHANTVOICE <br>\nPractical Ecommerce <br>\n\nMARKETING <br>\nCONVERSION <br>\nCARTS &amp; PLATFORMS <br>\nSOCIAL MEDIA <br>\nSEARCH ENGINES <br>\nMANAGEMENT <br>\nDESIGN &amp; DEVELOPMENT <br>\n\nArticles » Design &amp; Development » <br>\nCrawl Your Ecommerce Site with Python, Scrapy <br>\nFEBRUARY 1, 2016 • ARMANDO ROGGIO</p>\n\n<p>PrintPrintComment1 Comment  70 <br>\ninShare <br>\n61 <br>\nEcommerce business owners and managers have many good reasons to crawl their own websites, including monitoring pages, tracking site performance, ensuring the site is accessible to customers with disabilities, and looking for optimization opportunities.</p>\n\n<p>For each of these, there are discrete tools, web crawlers, and services you could purchase to help monitor your site. While these solutions can be effective, with a relatively small about of development work you can create your own site crawler and site monitoring system.</p>\n\n<p>The first step toward building your own, custom site-crawling and monitoring application is to simply get a list of all of the pages on your site. In this article, I’ll review how to use the Python programming language and a tidy web crawling framework called Scrapy to easily generate a list of those pages.</p>\n\n<p>The Scrapy framework makes it relatively easy to create web spiders. <br>\nThe Scrapy framework makes it relatively easy to create web spiders. <br>\nYou’ll Need a Server, Python, and Scrapy</p>\n\n<p>This is a development project. While it is relatively easy to complete, you will still need a server with Python and Scrapy installed. You will also want command line access to that server via a terminal application or an SSH client.</p>\n\n<p>In a July 2015 article, “Monitor Competitor Prices with Python and Scrapy,” I described in some detail how to install Python and Scrapy on a Linux server or OS X machine. You can also get information about installing Python from the documentation section of Python.org. Scrapy also has good installation documentation.</p>\n\n<p>Given all of these available resources, I’ll start with the assumption that you have your server ready to go with both Python and Scrapy installed.</p>\n\n<p>Create a Scrapy Project</p>\n\n<p>Using an SSH client like Putty for Windows or the terminal application on a Mac or Linux computer, navigate to the directory where you want to keep your Scrapy projects. Using a built-in Scrapy command, startproject, we can quickly generate the basic files we need.</p>\n\n<p>For this article, I am going to be crawling a website called Business Idea Daily, so I am naming the project “bid.”</p>\n\n<p>scrapy startproject bid <br>\nScrapy will generate several files and directories.</p>\n\n<p>Generate a New Scrapy Web Spider</p>\n\n<p>For your convenience, Scrapy has another command line tool that will generate a new web spider automatically.</p>\n\n<p>scrapy genspider -t crawl getbid businessideadaily.com <br>\nLet’s look at this command piece by piece.</p>\n\n<p>The first term, scrapy, references the Scrapy framework. Next, we have the genspider command that tells Scrapy we want a new web spider or, if you prefer, a new web crawler.</p>\n\n<p>The -t tells Scrapy that we want to choose a specific template. The genspider command can generate any one of four generic web spider templates: basic, crawl, csvfeed, and xmlfeed. Directly after the -t, we specify the template we want, and, in this example, we will be creating what Scrapy calls a CrawlSpider.</p>\n\n<p>The term, getbid, is simply the name of the spider; this could have been any reasonable name.</p>\n\n<p>The final portion of the command tells Scrapy what website we want to crawl. The framework will use this to populate a couple of the new spider’s parameters.</p>\n\n<p>Define Items</p>\n\n<p>In Scrapy, Items are mini models or ways of organizing the things our spider collects when it crawls a specific website. While we could easily complete our aim — getting a list of all of the pages on a specific website — without using Items, not using Items might limit us if we wanted to expand our crawler later.</p>\n\n<p>To define an Item, simply open the items.py file Scrapy created when we generated the project. In it, there will be a class called BidItem. The class name is based on the name we gave our project.</p>\n\n<p>class BidItem(scrapy.Item): <br>\n # define the fields for your item here like:\n # name = scrapy.Field()\n pass\nReplace pass with a definition for a new field called url.</p>\n\n<p>url = scrapy.Field() <br>\nSave the file and you’re done.</p>\n\n<p>The item as it looked in an editor. <br>\nThe item as it looked in an editor. <br>\nBuild the Web Spider</p>\n\n<p>Next open the spider’s directory in your project and look for the new spider Scrapy generated. In the example, this spider is called getbid, so the file is getbid.py.</p>\n\n<p>When you open this file in an editor, you should see something like the following.</p>\n\n<h1 id=\"codingutf8\">-<em>- coding: utf-8 -</em>-</h1>\n\n<p>import scrapy <br>\nfrom scrapy.linkextractors import LinkExtractor <br>\nfrom scrapy.spiders import CrawlSpider, Rule <br>\nfrom bid.items import BidItem <br>\nclass GetbidSpider(CrawlSpider): <br>\n name = 'getbid'\n allowed<em>domains = ['businessideadaily.com']\n start</em>urls = ['<a href=\"http://www.businessideadaily.com/\">http://www.businessideadaily.com/</a>']\nrules = ( <br>\n Rule(LinkExtractor(allow=r'Items/'), callback='parse<em>item', follow=True),\n )\ndef parse</em>item(self, response): <br>\n i = BidItem()\n #i['domain_id'] = response.xpath('//input[@id=\"sid\"]/@value').extract()\n #i['name'] = response.xpath('//div[@id=\"name\"]').extract()\n #i['description'] = response.xpath('//div[@id=\"description\"]').extract()\n return i\nWe need to make a few minor changes to the code Scrapy generated for us. First, we need to modify the arguments for the LinkExtractor under rules. We are simply going to delete everything in the parenthesis.</p>\n\n<p>Rule(LinkExtractor(), callback='parse<em>item', follow=True), <br>\nWith this update, our spider will find every link on the start page (home page), pass the individual link to the parse</em>item method, and follow links to the next page of the site to ensure we are getting every linked page.</p>\n\n<p>Next, we need to update the parse_item method. We will remove all of the commented lines. These lines were just examples that Scrapy included for us.</p>\n\n<p>def parse_item(self, response): <br>\n i = BidItem()\n return i\nI like to use variable names that have meaning. So I am going to change the i to href, which is the name of the attribute in an HTML link that holds, if you will, the target link’s address.</p>\n\n<p>def parse_item(self, response): <br>\n href = BidItem()\n return href\nNow for the magic. We will capture the page URL as an Item.</p>\n\n<p>def parse_item(self, response): <br>\n href = BidItem()\n href['url'] = response.url\n return href\nThat is it. The new spider is ready to crawl.</p>\n\n<p>Crawl the Site; Get the Data</p>\n\n<p>From the command line, we want to navigate into our project directory. Once in that directory, we are going to run a simple command to send out our new spider and get back a list of pages.</p>\n\n<p>scrapy crawl getbid -o 012916.csv <br>\nThis command has a few parts. First, we reference the Scrapy framework. We tell Scrapy that we want to crawl. We specify that we want to use the getbid spider.</p>\n\n<p>The -o tells Scrapy to output the result. The 012916.csv portion of the command tells Scrapy to put the result in a comma separated value (.csv) file with that name.</p>\n\n<p>In the example, Scrapy will return three page addresses. One of the reasons I selected this site for our example is that it only has a few pages. If you aim a similar spider at a site with thousands of pages, it will take some time to run, but it will return a similar response.</p>\n\n<p>url <br>\n<a href=\"https://businessideadaily.com/auth/login\">https://businessideadaily.com/auth/login</a> <br>\n<a href=\"https://businessideadaily.com/\">https://businessideadaily.com/</a> <br>\n<a href=\"https://businessideadaily.com/password/email\">https://businessideadaily.com/password/email</a> <br>\nWith just a few lines of code, you’ve laid the foundation for your own site monitoring application.</p>\n\n<p>See, also, “Monitor Accessibility Errors on Your Ecommerce Site with Scrapy, WAVE.”</p>\n\n<p>Armando Roggio <br>\nARMANDO ROGGIO <br>\nBIO  |  RSS FEED <br>\n12 Resources for Your Inner Ecommerce Developer <br>\nAPIs Bring Ecommerce to Any Page, Service <br>\nHow to Optimize Ecommerce Product Images for Faster Pages, High Conversion <br>\nMonitor Competitor Prices with Python and Scrapy</p>\n\n<p>PREVIOUS ARTICLE <br>\n13 Useful Productivity Apps for 2016 <br>\nNEXT ARTICLE <br>\nWill Ads on Instagram Reduce Organic Reach? <br>\nGet the Practical Ecommerce RSS feed <br>\nLeave a comment</p>\n\n<p>Name*</p>\n\n<p>Email*</p>\n\n<p>Type your comment here.</p>\n\n<p>All comments moderated. Valid email required, but will not be published. <br>\nSUBMIT <br>\nComment ( 1 )</p>\n\n<p>JJ <br>\nFebruary 24, 2016 <br>\nReply <br>\nScrapy looks like an interesting tool. I tried unsuccessfully to install it on ubuntu 12.04 – I could only get it half to work if I “sudo” everything?? pip has got to be the worst package manager I’ve come across – I’m comparing it to node.js npm – there you have a option “-g” if you want it installed globally or locally. After 3 hours I gave up as I could not get pip / scrapy installed locally.</p>\n\n<p>EMAIL NEWSLETTER SIGNUPVIEW A <br>\nSAMPLE Free <br>\nEbook <br>\n50 Great Ecommerce Ideas</p>\n\n<p>Your email address... <br>\n SIGN UP</p>\n\n<p>MERCHANTVOICE</p>\n\n<p>How I maximize my holiday promotions</p>\n\n<p>The ultimate content marketing strategy</p>\n\n<p>Insurance and other boring (but crucial) expenses <br>\nPOPULAR <br>\nPAGE VIEWSSOCIAL SHARES# COMMENTS <br>\nSEO: Measuring Performance of the Long TailSEO: Measuring Performance of the Long Tail <br>\n18 Free Tools for Social Media Analytics18 Free Tools for Social Media Analytics <br>\nSEO- How to Maximize the Long TailSEO: How to Maximize the Long Tail <br>\nSEO Why Your Long Tail Isn’t LongSEO: Why Your Long Tail Isn’t Long <br>\n4 Email Marketing Tips for the Holidays4 Email Marketing Tips for the Holidays <br>\nEcommerce Product Releases: August 16, 2016Ecommerce Product Releases: August 16, 2016</p>\n\n<p>Make Animated GIFs in Adobe Photoshop CCMake Animated GIFs in Adobe Photoshop CC <br>\nGoogle Analytics - 4 New Reports for SEOGoogle Analytics: 4 New Reports for SEO <br>\nAre AdWords Default Settings Hurting Your Campaigns?Are AdWords Default Settings Hurting Your Campaigns? <br>\n16 Free Tools for Facebook Marketing16 Free Tools for Facebook Marketing <br>\nOlympic Committees Seek to Restrict Content Marketing, Social MediaOlympic Committees Seek to Restrict Content Marketing, Social Media <br>\nEcommerce in Israel- Cross Border Shopping DominatesEcommerce in Israel: Cross Border Shopping Dominates</p>\n\n<p>About Us Contact Editorial Policy Advertising Logos Ignite 2015 Privacy Policy Conditions of Use Podcasts <br>\nCopyright © 2005-2016 Practical Ecommerce. All Rights Reserved.</p>\n\n<p><a href=\"http://192.168.99.101/demo-a-post/\">http://192.168.99.101/demo-a-post/</a></p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Crawl Your Ecommerce Site with Python, Scrapy"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/crawl-your-ecommerce-site-with-python-scrapy/"
+    ],
+    "post_date": [
+      "2016-08-30"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <ul>\n<li>Chapter 1: Introduction to Django\n<ul><li>Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design</li>\n<li>Diango follow the MVC architectural pattern</li>\n<li>The MVC Design Pattern\n<ul><li>A key advantage of such an approach is that components are loosely coupled so we can change code independently without affecting the other pieces</li>\n<li>models.py file contains a description of the database table, represented by a Python class</li>\n<li>views.py file contains the business logic for the page</li>\n<li>urls.py file specifies which view is called for a given URL pattern</li>\n<li>HTML template that describes the design of the page</li></ul></li>\n<li>Django’s History</li>\n<li>How to Read This Book</li></ul></li>\n<li>Chapter 2: Getting Started\n<ul><li>Installing Python: Python 2.7.6 is available in Ubuntu14.04, if you are on Ubuntu12.04, update to 2.7.6 by follow pyenv <a href=\"http://iqbalnaved.wordpress.com/2013/08/30/installing-python-2-7-5-on-ubuntu-12-04-using-pyenv/\">http://iqbalnaved.wordpress.com/2013/08/30/installing-python-2-7-5-on-ubuntu-12-04-using-pyenv/</a></li>\n<li>Installing Django (Which have two version: Official Release and Development Version, the version that I choose to install was Official Release: Django 1.4.15 (LTS))</li>\n<li>Setting Up a Database</li>\n<li>Starting a Project (Have a simple practice with start a new django project)</li></ul></li>\n<li>Practice: Starting a project: I have finished this practice with\n<ul><li>Apply vagrant box with base box: ubuntu precise64.box</li>\n<li>Python version: Python 2.7.6</li>\n<li>Django version: Django 1.4.15 (LTS))</li>\n<li>Followed <a href=\"https://www.digitalocean.com/community/tutorials/how-to-install-django\">https://www.digitalocean.com/community/tutorials/how-to-install-django</a> to set up Virtualenv for working with Django</li>\n<li>Run Django server at port 8000</li></ul></li>\n<li><p>Chapter 3: Views and URLconfs</p>\n\n<ul><li><p>View</p>\n\n<ul><li>A view is just a Python function that takes an HttpRequest as its first parameter and returns an instance of HttpResponse</li></ul></li>\n<li><p>URLconf</p>\n\n<ul><li>By default, any request to a URL that doesn’t match a URLpattern and doesn’t end with a slash will be redirected to the same URL with a trailing slash</li>\n<li>URLpattern:\n<ul><li>Use the url() function tells Django how to handle the url that you are configuring</li>\n<li>Django removes the slash from the front of every incoming URL before it checks the URLpatterns so we don't need to include the leading slash</li>\n<li>The pattern includes a caret (^) and a dollar sign ($). These are regular expression characters that have a special meaning: the caret means “require that the pattern matches the start of the string,” and the dollar sign means “require that the pattern matches the end of the string.”</li>\n<li>We need to add a \"r\" character in front of the regular expression string to tells Python that the string is a “raw string” so the Python will not interpret backslashes</li>\n<li>If you’re the type of person who likes all URLs to end with slashes (which is the preference of Django’s developers), all you’ll need to do is add a trailing slash to each URLpattern and leave APPEND_SLASH set to True</li></ul></li>\n<li>About 404 Errors: “Page not found” page is only displayed if your Django project is in debug mode, when a requested URL that’s not defined in your URLconf appear</li>\n<li>With the Site Root, just only import the URLpartern r'^$'</li></ul></li>\n<li>How Django Processes a Request\n<ul><li>A request comes in to with a URL.</li>\n<li>Django determines the root URLconf by looking at the ROOT_URLCONF setting.</li>\n<li>Django looks at all of the URLpatterns in the URLconf for the first one that matches the URL</li>\n<li>If it finds a match, it calls the associated view function.</li>\n<li>The view function returns an HttpResponse.</li>\n<li>Django converts the HttpResponse to the proper HTTP response, which results in a Web page.</li></ul></li>\n<li>Dynamic Content</li>\n<li>URLconfs and Loose Coupling</li>\n<li>Dynamic URLs\n<ul><li>Placing parentheses around the data in the URLpattern that we want to get this value and add to view function arguments</li></ul></li>\n<li>Django’s Pretty Error Pages\n<ul><li>Django error page is only displayed when your Django project is in debug mode</li></ul></li></ul></li>\n<li><p>Chapter 4: Templates</p>\n\n<ul><li>Template System Basics</li>\n<li>Using the Template System</li>\n<li>Creating Template Objects</li>\n<li>We can running $ python manage.py shell to start the interactive interpreter and before starting the interpreter, it tells Django which settings file to use</li>\n<li>Rendering a Template\n<ul><li>We can pass data to template by giving it a context.</li></ul></li>\n<li>Multiple Contexts, Same Template (Once you have a Template object, you can render multiple contexts through it)</li>\n<li><p>Context Variable Lookup</p>\n\n<ul><li>Use a dot to access dictionary keys, attributes, methods, or indices of an object</li>\n<li><p>Do not include parentheses in the method calls because it’s not possible to pass arguments to the methods; you can only call methods that have no required argument</p></li>\n<li><p>Dot lookups can be summarized like this: when the template system encounters a dot in a variable name, it tries the following lookups, in this order:</p>\n\n<ul><li>Dictionary lookup (e.g., foo[\"bar\"])</li>\n<li>Attribute lookup (e.g., foo.bar)</li>\n<li>Method call (e.g., foo.bar())</li>\n<li>List-index lookup (e.g., foo[2])</li></ul></li>\n<li>Method Call Behavior\n<ul><li>During the method lookup, a method raises an exception, the exception will be propagated, unless the exception has an attribute silent<em>variable</em>failure whose value is True</li>\n<li>A method call will only work if the method has no required arguments.</li>\n<li>Some methods have side effects, and it would be foolish at best, and possibly even a security hole, to allow the template system to access them</li></ul></li>\n<li>How Invalid Variables Are Handled (if a variable doesn’t exist, the template system renders it as an empty string, failing silently)</li>\n<li>Playing with Context Objects (you can add and delete items from a Context object once it’s been instantiated)</li>\n<li>Basic Template Tags and Filters\n<ul><li>Tags: if/else\n<ul><li>The {% if %} tag accepts and, or, or not for testing multiple variables, or to negate a given variable</li>\n<li>{% if %} tags don’t allow and and or clauses within the same tag, parentheses for this case also not allowed, just using nested tag</li>\n<li>There is no {% elif %} tag</li>\n<li>Make sure to close each {% if %} with an {% endif %}. Otherwise, Django will throw a TemplateSyntaxError</li></ul></li>\n<li>Tags: for\n<ul><li>The {% for %} tag allows you to loop over each item in a sequence. The same logic with Python</li>\n<li>Add reversed to the tag to loop over the list in reverse</li>\n<li>It’s possible to nest {% for %} tags</li>\n<li>The for tag supports an optional {% empty %} clause that lets you define what to output if the list is empty</li>\n<li>Within each {% for %} loop, you get access to a template variable called forloop. This variable has a few attributes that give you information about the progress of the loop</li></ul></li>\n<li>Tags: ifequal/ifnotequal\n<ul><li>The {% ifequal %} tag compares two values and displays everything between {% ifequal %} and {% endifequal %} if the values are equal</li></ul></li>\n<li>Comments\n<ul><li>Use {# comment #} for a comment</li>\n<li>Use the {% comment %} for multi-line comment</li>\n<li>The comment will not be output when the template is rendered</li></ul></li>\n<li>Filters\n<ul><li>Filters use a pipe character like {{ name|lower }}</li>\n<li>Filters can be chained</li>\n<li>A filter argument comes after a colon and is always in double quotes</li>\n<li>Beside the built-in filter, we can make a custom filter</li></ul></li></ul></li>\n<li>Philosophies and Limitations\n<ul><li>Business logic should be separated from presentation logic</li>\n<li>Syntax should be decoupled from HTML/XML</li>\n<li>Designers are assumed to be comfortable with HTML code</li>\n<li>Designers are assumed not to be Python programmers</li>\n<li>The goal is not to invent a programming language</li></ul></li>\n<li>Using Templates in Views</li>\n<li>Template Loading</li>\n<li>We can use render() as a shortcut for template loading, context creation, template rendering, and HttpResponse</li>\n<li>Subdirectories in get_template()</li>\n<li>The include Template Tag (This tag allows you to include the contents of another template)\n<ul><li>Template Inheritance (Using {% extends %} and {% block %} tags to make template inheritance)</li></ul></li></ul></li>\n<li>Chapter 5: Model\n<ul><li>The MTV (or MVC) Development Pattern\n<ul><li>M stands for “Model,” the data access layer, contains anything and everything about the data: how to access it, how to validate it, which behaviors it has, and the relationships between the data</li>\n<li>T stands for “Template,” the presentation layer, contains presentation-related decisions: how something should be displayed on a Web page or other type of document.</li>\n<li>V stands for “View,” the business logic layer, contains the logic that access the model and defers to the appropriate template(s), likely the bridge between models and templates.</li>\n<li>As MVC Web-development frameworks, Django refer Django views to be the “controllers”, Django templates to be the “views” and Django model to be the \"Model\"</li></ul></li>\n<li>Configuring the Database (by config the DATABASES property in setting.py file)</li>\n<li>Defining Models in Python\n<ul><li>Django uses a model to execute SQL code behind the scenes and return convenient Python data structures representing the rows in your database tables.</li>\n<li>Django also uses models to represent higher-level concepts that SQL can’t necessarily handle</li>\n<li>Each model is represented by a Python class that is a subclass of django.db.models.Model</li>\n<li>Each model generally corresponds to a single database table, and each attribute on a model generally corresponds to a column in that database table</li>\n<li>With the models.ManyToManyField(), Django creates an additional table – a many-to-many “join table” – that handles the mapping between 2 tables</li>\n<li>Django automatically gives every model an auto-incrementing integer primary key field called id, unless you instruct it</li></ul></li>\n<li>Installing the Model (Use $ python manage.py sqlall model-name then $ python manage.py syncdb to generate CREATE TABLE statements for your models)</li>\n<li>Basic Data Access: (use Django database API to interact with the database)</li>\n<li>Adding Model String Representations (Make sure any model you define has a <strong>unicode</strong>() method)</li>\n<li>Inserting and Updating Data</li>\n<li>Selecting Objects</li>\n<li>Filtering Data:\n<ul><li>Use filter() as the Where sql query</li>\n<li>Django uses the double underscore when we need a special method on filter() arguments (ex: __contains for LIKE in sql command, ...)</li></ul></li>\n<li>Retrieving Single Objects (use get() method to get the single objects, but we need to notify that the query resulting in multiple objects will cause an exception as MultipleObjectsReturned or DoesNotExist)</li>\n<li>Ordering Data\n<ul><li>Use order<em>by() method as the ORDER</em>BY sql command</li>\n<li>Use multiple arguments for order multiple field</li>\n<li>Use a minus character for reverse the order</li>\n<li>Use class Meta and Ordering property for specify a default ordering in the model</li></ul></li>\n<li>Chaining Lookups</li>\n<li>Slicing Data: Use Python’s standard list slicing syntax as the LIMIT sql command to a subset of data (Ex: Publisher.objects.order<em>by('name')[0] or Publisher.objects.order</em>by('name')[0:2])</li>\n<li>Updating Multiple Objects in One Statement (use update() method)</li>\n<li>Deleting Objects (use delete() method)</li></ul></li>\n<li>Chapter 6: The Django Admin Site\n<ul><li>The django.contrib packages</li>\n<li>Activating the Admin Interface</li>\n<li>Using the Admin Site</li>\n<li>Adding Models to the Admin Site</li>\n<li>How the Admin Site Works</li>\n<li>Making Fields Optional (by add blank=True to the Field())</li>\n<li>Making Date and Numeric Fields Optional (use both null=True and blank=True.)</li>\n<li>Customizing Field Labels (add verbose<em>name='...' to Field())\n<ul><li>Shouldn’t capitalize the first letter of a verbose</li></ul></em>name unless it should always be capitalized</li></ul></li>\n<li>Custom ModelAdmin classes\n<ul><li>Customizing change lists (Use list<em>display, search</em>fields, list<em>filter, date</em>hierarchy, ordering)</li>\n<li>Customizing edit forms\n<ul><li>Use fields for change the order of fields when display on form instead of use the default order of data in table</li>\n<li>Leave out the field that we want to exclude by do not include it in the arguments when use the fields = ('..', '..', '..')</li>\n<li>Use filter_horizontal to use a select multiple items interface ( Use as a common for ManyToManyField)</li></ul></li></ul></li>\n<li>Users, Groups, and Permissions (just for superuser)</li>\n<li>When and Why to Use the Admin Interface – And When Not to</li></ul></li>\n<li>Chapter 7: Forms\n<ul><li>Getting Data From the Request Object\n<ul><li>Information About the URL (via HttpRequest objects)</li>\n<li>Other Information About the Request (use request.META)</li>\n<li>Information About Submitted Data (Use request.GET and request.POST.)</li></ul></li>\n<li>A Simple Form-Handling Example\n<ul><li>Improving Simple Form-Handling Example</li>\n<li>Simple validation\n<ul><li>We can use JavaScript to validate data on the client side but even if we do this, we must validate data on the server side, too</li></ul></li>\n<li>Making a Contact Form</li>\n<li>Tying Form Objects Into Views</li>\n<li>Changing How Fields Are Rendered</li>\n<li>Setting a Maximum Length</li>\n<li>Setting Initial Values</li>\n<li>Custom Validation Rules</li>\n<li>Specifying labels</li>\n<li>Customizing Form Design</li></ul></li></ul></li>\n<li>Chapter 8: Advanced Views and URLconfs</li>\n<li>Continue to read The Django Book, covered chapter 9: Advanced Templates and get the introduction about:\n<ul><li>Streamlining Function Imports</li>\n<li>Using Multiple View Prefixes</li>\n<li>Special-Casing URLs in Debug Mode</li>\n<li>Using Named Groups\n<ul><li>Keyword Arguments vs. Positional Arguments</li>\n<li>In Python regular expressions, the syntax for named regular expression groups is (?P<name>pattern), where name is the name of the group and pattern is some pattern to match.</name></li></ul></li>\n<li>Understanding the Matching/Grouping Algorithm\n<ul><li>A single URLconf pattern cannot contain both named and non-named groups</li></ul></li>\n<li>Passing Extra Options to View Functions\n<ul><li>Putting parentheses around the URL to capture value (URL), and checking the value (URL) within the view function</li>\n<li>Use the third item: a dictionary of keyword arguments that included in each pattern in URLconf  to pass value to the view function</li>\n<li>Faking Captured URLconf Values</li>\n<li>Making a View Generic</li>\n<li>Giving a View Configuration Options</li>\n<li>Understanding Precedence of Captured Values vs. Extra Options\n<ul><li>If your URLconf captures a named-group variable and an extra URLconf parameter includes a variable with the same name, the extra URLconf parameter value will be used.</li></ul></li>\n<li>Using Default View Arguments</li></ul></li>\n<li>Special-Casing Views</li>\n<li>Capturing Text in URLs (captured argument always sent to the view as a plain Python Unicode string)</li>\n<li>Determining What the URLconf Searches Against (view function is responsible for perform branching (GET, POST) based on request method)</li>\n<li>Higher-Level Abstractions of View Functions</li>\n<li>Wrapping View Functions</li>\n<li>Including Other URLconfs ( the regular expressions that point to an include() do not have a $ (end-of-string match character) but do include a trailing slash)</li>\n<li>How Captured Parameters Work with include()</li>\n<li>How Extra URLconf Options Work with include()</li></ul></li>\n<li>Example code:\n<ul><li>Git repository: git@asoft.git:training/training-thangnguyen.git</li>\n<li>Branch: develop</li>\n<li>Folder: djangoProj</li></ul></li>\n<li>Chapter 9: Advanced Templates\n<ul><li>Template Language Review</li>\n<li>RequestContext and Context Processors\n<ul><li>Context processors let you specify a number of variables that get set in each context automatically</li>\n<li>When use context processors with render() shortcut (instead of using context<em>instance argument</em></li>\n<li>Django also support for global context processors while use TEMPLATE<em>CONTEXT</em>PROCESSORS to designates which context processors should always be applied to RequestContext</li>\n<li>Guidelines for Writing Your Own Context Processors</li></ul></li>\n<li>Automatic HTML Escaping\n<ul><li>To disable auto-escaping for an individual variable, use the safe filter</li>\n<li>To control auto-escaping for a template (template blocks) wrap the template (or a part of this) in the autoescape on/off tag</li>\n<li>People that writing views and custom filters need to think about the cases in which data shouldn’t be escaped, and mark data appropriately</li></ul></li>\n<li>Inside template loading (TEMPLATELOADERS)</li>\n<li>Extending the template system\n<ul><li>Creating a template library</li>\n<li>Writing custom template filters</li>\n<li>Writing custom template tags</li>\n<li>Writing the compilation function</li>\n<li>Writing the template node</li>\n<li>Registering the tag</li></ul></li></ul></li>\n<li>Chapter 9: Advanced Templates\n<ul><li>Extending the template system\n<ul><li>Setting a Variable in the Context</li>\n<li>Parsing Until Another Template Tag</li>\n<li>Shortcut for Simple Tags</li>\n<li>Inclusion Tags</li></ul></li>\n<li>Writing Custom Template Loaders</li>\n<li>Configuring the Template System in Standalone Mode</li></ul></li>\n<li>Chapter 10: Advanced Models\n<ul><li>Related Objects\n<ul><li>Accessing Foreign key values (When we access a field that’s a ForeignKey, we’ll get the related model object)</li>\n<li>Accessing Many-to-many values (Many-to-many values work like foreign-key values, except we deal with QuerySet values instead of model instances.)</li></ul></li>\n<li>Making changes to a database schema\n<ul><li>Adding fields</li>\n<li>Removing fields</li>\n<li>Removing Many-to-many fields</li>\n<li>Removing models</li></ul></li>\n<li>Managers (a model’s manager is an object through which Django models perform database queries. Each Django model has at least one manager, and we can create custom managers in order to customize database access)\n<ul><li>Adding extra manager methods</li>\n<li>Modifying initial manager QuerySets (A manager’s base QuerySet returns all objects in the system and we can override a manager’s base QuerySet by overriding the Manager.get<em>query</em>set() method)</li></ul></li>\n<li>Model methods</li>\n<li>Executing raw SQL queries (by accessing the object django.db.connection)</li></ul></li>\n<li>Chapter 11: Generic Views\n<ul><li>Using Generic Views</li>\n<li>Generic Views of Objects</li>\n<li>Extending Generic Views\n<ul><li>Making “Friendly” Template Contexts (use template<em>object</em>name)</li>\n<li>Adding Extra Context (with extra<em>context, use callback in extra</em>context or use .objects.all without of parentheses to resolve problem about reflect extra_context changes)</li>\n<li>Viewing Subsets of Objects (with queryset arguments)</li>\n<li>Complex Filtering with Wrapper Functions</li>\n<li>Performing Extra Work</li></ul></li></ul></li>\n<li>Chapter 12: Deploying Django\n<ul><li>Preparing Codebase for Production\n<ul><li>Turning Off Debug Mode (set DEBUG to False)</li>\n<li>Turning Off Template Debug Mode (set TEMPLATE<em>DEBUG to False)</em></li>\n<li>Implementing a 404 Template (create 404.html in root template directory)</li>\n<li>Implementing a 500 Template (create 500.html in root template directory and avoid template inheritance on it)</li>\n<li>Setting Up Error Alerts\n<ul><li>Change ADMINS setting to include e-mail address, so an e-mail will be sent to the site developers when the code raises an unhandled exception</li>\n<li>Make sure the server is configured to send e-mail</li></ul></li>\n<li>Setting Up Broken Link Alerts</li>\n<li>Using Different Settings for Production - there are 3 ways to do this:\n<ul><li>Define two separate settings files</li>\n<li>Define two separate settings files but cuts down on redundancy (instead of having two settings files, just use “base” file and create another file that imports from it)</li>\n<li>Use a single settings file that branches based on the environment</li></ul></li>\n<li>DJANGO<em>SETTINGS</em>MODULE\n<ul><li>The deployement instructions are different for each environment, but one thing remains the same: in each case, we will have to tell the Web server our DJANGO<em>SETTINGS</em>MODULE (entry point into the Django application)</li></ul></li>\n<li>Using Django with Apache and modpython\n<ul><li>Basic Configuration</li></ul></li></ul></li></ul></li>\n<li>Chapter 14: Sessions, Users, and Registration\n<ul><li>Cookies\n<ul><li>Getting and Setting Cookies</li>\n<li>The Mixed Blessing of Cookies\n<ul><li>Storage of cookies is voluntary and still the definition of unreliability, so developers should check that a user actually accepts cookies before relying on them</li>\n<li>Cookies are not secure, so you should never store sensitive information in a cookie</li></ul></li></ul></li>\n<li>Django’s Session Framework\n<ul><li>Enabling Sessions</li>\n<li>Using Sessions in Views</li>\n<li>Setting Test Cookies</li>\n<li>Using Sessions Outside of Views</li>\n<li>When Sessions Are Saved (Django only saves to the database if the session has been modified as default, set SESSION<em>SAVE</em>EVERY_REQUEST to True if we want to change this default behavior)</li>\n<li>Browser-Length Sessions vs. Persistent Sessions\n<ul><li>If SESSION<em>EXPIRE</em>AT<em>BROWSER</em>CLOSE is set to True, Django will use browser-length cookies.</li>\n<li>If SESSION<em>EXPIRE</em>AT<em>BROWSER</em>CLOSE is set to False, session cookies will be stored in users’ browsers for SESSION<em>COOKIE</em>AGE seconds (which defaults to two weeks, or 1,209,600 seconds)</li></ul></li>\n<li>Other Session Settings</li></ul></li>\n<li>Users and Authentication\n<ul><li>Enabling Authentication Support</li>\n<li>Using Users</li>\n<li>Logging In and Out</li>\n<li>Limiting Access to Logged-in Users</li>\n<li>Limiting Access to Users Who Pass a Test</li></ul></li></ul></li>\n<li>Chapter 14: Sessions, Users, and Registration (continue)\n<ul><li>Users and Authentication\n<ul><li>Managing Users, Permissions, and Groups</li>\n<li>Using Authentication Data in Templates</li>\n<li>Permissions, Groups and Messages</li></ul></li>\n<li>Permissions, Groups and Messages</li></ul></li>\n<li>Chapter 16: django.contrib\n<ul><li>The Django Standard Library (lives in the django package django.contrib.)</li>\n<li>Some of django.contrib packages (admin, auth, sessions, redirects, ...)</li>\n<li>Sites (django.contrib.site - that is very helpful for:)\n<ul><li>Scenario 1: Reusing Data on Multiple Sites</li>\n<li>Scenario 2: Storing Your Site Name/Domain in One Place</li>\n<li>How to Use the Sites Framework</li>\n<li>The Sites Framework’s Capabilities\n<ul><li>Reusing Data on Multiple Sites</li>\n<li>Associating Content with a Single Site</li>\n<li>Hooking Into the Current Site from Views</li>\n<li>CurrentSiteManager</li></ul></li>\n<li>How Django Uses the Sites Framework</li></ul></li>\n<li>Flatpages (django.contrib.flatpages)\n<ul><li>Using Flatpages</li>\n<li>Adding, Changing, and Deleting Flatpages</li>\n<li>Using Flatpage Templates</li></ul></li>\n<li>Redirects (django.contrib.redirects)\n<ul><li>Using the Redirects Framework</li>\n<li>Adding, Changing, and Deleting Redirects</li></ul></li>\n<li>CSRF Protection: a package that protects against Cross-Site Request Forgery (CSRF)\n<ul><li>Preventing CSRF\n<ul><li>Using the CSRF Middleware</li>\n<li>Limitations of the CSRF Middleware</li></ul></li></ul></li>\n<li>Humanizing Data (a set of Django template filters useful for adding a “human touch” to data - ex: apnumber, intcomma, intword, ordinal, naturalday, naturaltime)</li>\n<li>Markup Filters (includes a handful of Django template filters, each of which implements a common markup languages - textile, markdown, restructuredtext).</li></ul></li>\n<li>Chapter 17: Middleware\n<ul><li>Middleware Installation</li>\n<li>Middleware Methods</li>\n<li>Built-in Middleware:\n<ul><li>Authentication Support Middleware (enables authentication support.)</li>\n<li>Common Middleware</li>\n<li>Compression Middleware</li>\n<li>Conditional GET Middleware</li>\n<li>Reverse Proxy Support (X-Forwarded-For Middleware)</li>\n<li>Session Support Middleware</li>\n<li>Sitewide Cache Middleware</li>\n<li>Transaction Middleware</li></ul></li></ul></li>\n<li>Chapter 20: Security\n<ul><li>The Theme of Web Security</li>\n<li>SQL Injection\n<ul><li>Never trust user-submitted data, and always escape it when passing it into SQL.</li>\n<li>The Django database API automatically escapes all special SQL parameters, according to the quoting conventions of the database server you’re using</li></ul></li>\n<li>Cross-Site Scripting (XSS)\n<ul><li>Always escape any content that might have come from a user before inserting it into HTML.</li>\n<li>Django’s template system automatically escapes all variable values</li></ul></li>\n<li>Cross-Site Request Forgery\n<ul><li>Django provide django.contrib.csrf package to protects against Cross-Site Request Forgery (CSRF).</li></ul></li>\n<li>Session Forging/Hijacking\n<ul><li>Come with difference forms:\n<ul><li>A man-in-the-middle attack</li>\n<li>Session forging</li>\n<li>Cookie-forging attack</li>\n<li>Session fixation</li></ul></li>\n<li>The Solution:\n<ul><li>Never allow session information to be contained in the URL. (Django’s session framework simply doesn’t allow sessions to be contained in the URL)</li>\n<li>Don’t store data in cookies directly. Instead, store a session ID that maps to session data stored on the backend. (Django’s session framework support this)</li>\n<li>Remember to escape session data if you display it in the template</li>\n<li>Prevent attackers from spoofing session IDs whenever possible. (with django, Session IDs are stored as hashes which prevents a brute-force attack, and a user will always get a new session ID if she tries a nonexistent one, which prevents session fixation)</li></ul></li></ul></li>\n<li>E-mail Header Injection\n<ul><li>Always escape or validate user-submitted content</li>\n<li>django.core.mail simply do not allow newlines in any fields used to construct headers (that supported to prevent E-mail Header Injection)</li></ul></li>\n<li>Directory Traversal\n<ul><li>Need to sanitize the requested path very carefully to ensure that an attacker isn’t able to escape from the base directory you’re restricting access to (with django django.views.static supports)</li></ul></li>\n<li>Exposed Error Messages (Make sure to set DEBUG setting to False when deploy)</li></ul></li></ul>\n\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Django"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/demo-a-post/"
+    ],
+    "post_date": [
+      "2016-08-25"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel pulvinar magna. Donec sagittis tristique sem, non faucibus lectus dapibus varius. Praesent ornare nibh a arcu porta vestibulum. Nulla tempor nisi ipsum, eu interdum augue tincidunt volutpat. In hac habitasse platea dictumst. Donec tincidunt tellus vitae elementum sodales. Aliquam in mattis sapien. Donec ac sem neque. Praesent tempus consequat neque, in dignissim odio vehicula ut. Pellentesque rhoncus laoreet enim vitae iaculis. Donec sed tellus lacus. Fusce pellentesque ex interdum lorem pulvinar, feugiat dapibus libero viverra. Vestibulum molestie leo erat, nec aliquam lacus porttitor eu. Quisque interdum sit amet nisl a condimentum. Etiam auctor tempus est, sit amet aliquam quam tempor sed.</p>\n\n<p>Donec justo neque, eleifend vitae enim nec, mollis consequat ipsum. Fusce placerat ex ut tincidunt lobortis. Duis tincidunt tristique imperdiet. Cras hendrerit dapibus accumsan. Maecenas ac eleifend ante. Nam porta commodo nisi sit amet malesuada. Aliquam est est, lacinia at semper eget, consequat id lacus. Mauris eleifend molestie turpis, id dignissim elit mattis id. Phasellus et elit id metus suscipit consequat vitae ut eros.</p>\n\n<p>Nunc vitae lobortis mi. Suspendisse nisl odio, efficitur id aliquam eu, faucibus sit amet libero. Fusce vestibulum vulputate tristique. Nullam eget malesuada nulla. Maecenas pharetra massa sed mauris malesuada sagittis. Aliquam id lectus sem. Cras in nibh et libero condimentum interdum. Pellentesque congue turpis eget facilisis dictum. Duis at ligula pharetra, semper mauris id, eleifend est. Etiam sed dapibus lacus, non mattis purus. Curabitur vel neque porttitor erat commodo sodales ac quis leo.</p>\n\n<p>Integer quis orci vitae elit lacinia interdum sed id erat. Mauris bibendum eleifend ante nec ullamcorper. Mauris lacus tortor, lacinia ac lacus congue, congue venenatis libero. Vestibulum gravida, lorem ut aliquet tincidunt, augue sem pharetra leo, eu vulputate metus nisi gravida neque. Donec consequat leo sed tempor blandit. Praesent accumsan dictum justo eget elementum. Etiam a orci et libero varius posuere mattis in urna. Curabitur sagittis nibh ex, ac sagittis nulla porta id. Praesent pretium, sem condimentum posuere rhoncus, urna sem tristique nisl, id convallis lorem urna sed eros. Sed in velit quam. Nullam id ligula porta, consectetur diam non, mollis odio. Vestibulum id risus metus. Cras porta urna quis diam vestibulum ullamcorper. Nullam consequat finibus tellus sed blandit.</p>\n\n<p>Mauris ultrices lorem quis urna laoreet, at vulputate neque congue. Vivamus iaculis, ex nec ornare rutrum, sapien tortor lacinia ligula, eu vehicula augue justo et turpis. Vivamus dignissim, purus id semper fermentum, leo ipsum volutpat neque, eu egestas velit eros vitae orci. Fusce odio lacus, eleifend sed hendrerit eu, laoreet ac urna. Nulla pretium urna at ipsum dapibus placerat. Vivamus fermentum aliquam est vitae ornare. Cras ultrices dolor quis iaculis rhoncus. Aenean eu massa massa. Aliquam eu maximus nunc. Nullam ut volutpat erat, at blandit magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam cursus ultrices nisl, in dapibus ipsum molestie at.</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "yandex00"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/yandex00/"
+    ],
+    "post_date": [
+      "2016-08-25"
+    ]
+  },
+  {
+    "server": [
+      "e5a29c7896e7"
+    ],
+    "content": [
+      "<section class=\"post-content\">\n            <p>You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at <code>&lt;your blog URL&gt;/ghost/</code>. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!</p>\n\n<h2 id=\"gettingstarted\">Getting Started</h2>\n\n<p>Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!</p>\n\n<p>Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use <em>shortcuts</em> to <strong>style</strong> your content. For example, a list:</p>\n\n<ul>\n<li>Item number one</li>\n<li>Item number two\n<ul><li>A nested item</li></ul></li>\n<li>A final item</li>\n</ul>\n\n<p>or with numbers!</p>\n\n<ol>\n<li>Remember to buy some milk  </li>\n<li>Drink the milk  </li>\n<li>Tweet that I remembered to buy the milk, and drank it</li>\n</ol>\n\n<h3 id=\"links\">Links</h3>\n\n<p>Want to link to a source? No problem. If you paste in a URL, like <a href=\"http://ghost.org\">http://ghost.org</a> - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to <a href=\"http://ghost.org\">the Ghost website</a>. Neat.</p>\n\n<h3 id=\"whataboutimages\">What about Images?</h3>\n\n<p>Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:</p>\n\n<p><img src=\"https://ghost.org/images/ghost.png\" alt=\"The Ghost Logo\"></p>\n\n<p>Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:</p>\n\n<h3 id=\"quoting\">Quoting</h3>\n\n<p>Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!</p>\n\n<blockquote>\n  <p>Ghost - Just a blogging platform</p>\n</blockquote>\n\n<h3 id=\"workingwithcode\">Working with Code</h3>\n\n<p>Got a streak of geek? We've got you covered there, too. You can write inline <code>&lt;code&gt;</code> blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.</p>\n\n<pre><code>.awesome-thing {\n    display: block;\n    width: 100%;\n}\n</code></pre>\n\n<h3 id=\"readyforabreak\">Ready for a Break?</h3>\n\n<p>Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.</p>\n\n<hr>\n\n<h3 id=\"advancedusage\">Advanced Usage</h3>\n\n<p>There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.</p>\n\n<p><input type=\"text\" placeholder=\"I'm an input field!\"></p>\n\n<p>That should be enough to get you started. Have fun - and let us know what you think :)</p>\n        </section>"
+    ],
+    "spider": [
+      "ghost_post_spider"
+    ],
+    "title": [
+      "Welcome to Ghost"
+    ],
+    "author": [
+      "yandex00"
+    ],
+    "crawl_date": [
+      "2016-09-07 07:38:27"
+    ],
+    "project": [
+      "ghostblog"
+    ],
+    "url": [
+      "http://192.168.99.100/welcome-to-ghost/"
+    ],
+    "post_date": [
+      "2016-08-25"
+    ]
+  }
+]
